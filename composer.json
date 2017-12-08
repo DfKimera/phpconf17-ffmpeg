@@ -1,0 +1,12 @@
+{
+    "name": "dfkimera/phpconf17-ffmpeg",
+    "authors": [
+        {
+            "name": "Aryel Tupinamba",
+            "email": "aryel.tupinamba@lqdi.net"
+        }
+    ],
+    "require": {
+        "php-ffmpeg/php-ffmpeg": "^0.11.0"
+    }
+}
